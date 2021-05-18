@@ -1,5 +1,7 @@
 # Jupyter Notebboks das Postagens no Medium
 
-[Flex Grid](utils/matplotlib_grafico_bar.gif/)
+<h1 align="center">
+  <img src="utils/matplotlib_grafico_bar.gif"/>
+</h1>
 
 [Medium - Oséias Farias](https://oseiasfarias.medium.com/)
